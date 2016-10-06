@@ -1,0 +1,170 @@
+Script started on Tue Jun 25 16:01:00 2013
+[?1034hiSteve@macky.utep.edu:~/Documents/workspace/Networks/ssrc$ sudo port install minecraft[C[C[C[C[C[16Pjava Client recon20.cs.utepe[K.edu 10000
+Exception Error: java.net.ConnectException
+iSteve@macky.utep.edu:~/Documents/workspace/Networks/ssrc$ d[Kdnsloo[K[K[K[K[K[Knslookip[K[Kup recon20.cs.utep.edu
+Server:		129.108.0.3
+Address:	129.108.0.3#53
+
+Non-authoritative answer:
+Name:	recon20.cs.utep.edu
+Address: 129.108.19.235
+
+iSteve@macky.utep.edu:~/Documents/workspace/Networks/ssrc$ nslookup recon20.cs.utep.edu[C[C[C[C[Cjava Client recon20.cs.utep.edu 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 10000[1P 100001 100002 100009 10000. 100001 100000 100008 10000. 100000 10000. 100003 10000
+^CiSteve@macky.utep.edu:~/Documents/workspace/Networks/ssrc$ java Client 129.108.0.3 10000[C[1P 100002 100003 100005 10000
+Exception Error: java.net.ConnectException
+iSteve@macky.utep.edu:~/Documents/workspace/Networks/ssrc$ java Client 129.108.0.235 10000[2P3[C[C[C[C[C[C[2@235[C[C[C[C[C[C[1P[1@1[1@9
+Exception Error: java.net.ConnectException
+iSteve@macky.utep.edu:~/Documents/workspace/Networks/ssrc$ java Client 129.108.19.235 10000[1P0[C[C[C[C[C[C[C[C[C[C[2P3[C[C[C[C[C[C
+Exception Error: java.net.ConnectException
+iSteve@macky.utep.edu:~/Documents/workspace/Networks/ssrc$ 
+iSteve@macky.utep.edu:~/Documents/workspace/Networks/ssrc$ ssh sdwerner@recon10.cs.utep.edu
+The authenticity of host 'recon10.cs.utep.edu (129.108.19.225)' can't be established.
+RSA key fingerprint is e5:31:3b:47:5d:5e:7c:9f:d4:7a:6d:5f:97:e4:59:a4.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'recon10.cs.utep.edu,129.108.19.225' (RSA) to the list of known hosts.
+sdwerner@recon10.cs.utep.edu's password: 
+
+                         WELCOME TO COMPUTER SCIENCE
+
+
+        This system is for the use of authorized users only.  Individuals using
+        this computer system without authority, or in excess of their
+        authority, are subject to having all of their activities on this system
+        monitored and recorded by system personnel.
+
+        In the course of monitoring individuals improperly using this system,
+        or in the course of system maintenance, the activities of authorized
+        users may also be monitored.
+
+        Anyone using this system expressly consents to such monitoring and is
+        advised that if such monitoring reveals possible evidence of criminal
+        activity, system personnel may provide the evidence of such monitoring
+        to law enforcement officials.
+        
+        Check http://csts.cs.utep.edu for information on the CS computer labs.
+
+]0;sdwerner@recon10:~[?1034h[1] sdwerner@recon10 ~> $ cd Documents/Networks/
+]0;sdwerner@recon10:~/Documents/Networks[2] sdwerner@recon10 Networks> $ ls
+[0m[38;5;27m.[0m/            exampleRunServer.txt  TCPClient.java
+[38;5;27m..[0m/           Game.class            TCPServer.java
+Client.class  Server.class
+Client.java   Server.java
+[m]0;sdwerner@recon10:~/Documents/Networks[3] sdwerner@recon10 Networks> $ jaca[Kv[K[Kva c[KClient recon20.cs. utep.edu 10000
+Connected to recon20.cs.utep.edu/10000
+From:	Hi there! Let's begin:	('exit' to quit)
+From:	For Sure it's 510?
+To:	lower
+From:	How about 255?
+To:	even loer  wer
+From:	I bet it's 127?
+To:	
+From:	say too high or too low
+To:	still smaller
+From:	How about 63?
+To:	little lower
+From:	It's probably 31?
+To:	highter   er
+From:	I bet it's 47?
+To:	higher
+From:	I bet it's 55?
+To:	h
+From:	Is it 59?
+To:	l
+From:	Umm.. 57?
+To:	c yes
+From:	Yep 57. I knew it!! Only 9 guesses.	('exit' and try again..)
+To:	WRONG!!
+From:	The answer is 57 or else you lied to me!!  ('exit' and try again..)
+To:	jusre t  t kidding your correct
+From:	I know I know, 57...  This is what i do...	('exit' and try again..)
+To:	exo  it  xit
+From:	Thank you for playing :) bye.
+Done..
+]0;sdwerner@recon10:~/Documents/Networks[4] sdwerner@recon10 Networks> $ java Client recon20.cs.uutep.edu 10000[A[4] sdwerner@recon10 Networks> $ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjava Client recon20.cs.uutep.edu 10000
+Connected to recon20.cs.utep.edu/10000
+From:	Hi there! Let's begin:	('exit' to quit)
+From:	I bet it's 519?
+To:	highte  er
+From:	Ok... 771?
+To:	littler       higher
+From:	Ok... 897?
+To:	lower
+From:	Is it 834?
+To:	lower
+From:	For Sure it's 802?
+To:	lower
+From:	It's probably 786?
+To:	lower
+From:	For Sure it's 778?
+To:	lol, lower
+From:	It's probably 774?
+To:	highre  er
+From:	For Sure it's 776?
+To:	lo ittle l        higher
+From:	I bet it's 777?
+To:	correct
+From:	Yep 777. I knew it!! Only 10 guesses.	('exit' and try again..)
+To:	exit
+From:	Thank you for playing :) bye.
+Done..
+]0;sdwerner@recon10:~/Documents/Networks[5] sdwerner@recon10 Networks> $ java Client recon20.cs.uutep.edu 10000
+Connected to recon20.cs.utep.edu/10000
+From:	Hi there! Let's begin:	('exit' to quit)
+From:	For Sure it's 520?
+To:	ho  
+From:	What? Was i right?
+To:	huh   ?
+From:	What? Was i right?
+To:	?
+From:	What? Was i right?
+To:	?
+From:	Say it a different way
+To:	?
+From:	You need to say low or high
+To:	?
+From:	You need to say low or high
+To:	?
+From:	What? Was i right?
+To:	?
+From:	What? Was i right?
+To:	?
+From:	I didn't get that
+To:	.. higher
+From:	Is it 771?
+To:	higher
+From:	I bet it's 897?
+To:	higher
+From:	Umm.. 960?
+To:	hgier    
+From:	I bet it's 991?
+To:	h
+From:	How about 1007?
+To:	h
+From:	It's probably 1015?
+To:	h
+From:	Is it 1019?
+To:	h
+From:	It's probably 1021?
+To:	h
+From:	I bet it's 1022?
+To:	h
+From:	The answer is 1022 or else you lied to me!!  ('exit' and try again..)
+To:	correct
+From:	Yep 1022. I knew it!! Only 10 guesses.	('exit' and try again..)
+To:	eah     yeah yeah
+From:	The answer is 1022 or else you lied to me!!  ('exit' and try again..)
+To:	okok   ok
+From:	The answer is 1022 or else you lied to me!!  ('exit' and try again..)
+To:	yes
+From:	I know I know, 1022...  This is what i do...	('exit' and try again..)
+To:	exit
+From:	Thank you for playing :) bye.
+Done..
+]0;sdwerner@recon10:~/Documents/Networks[6] sdwerner@recon10 Networks> $ exit
+logout
+Connection to recon10.cs.utep.edu closed.
+iSteve@macky.utep.edu:~/Documents/workspace/Networks/ssrc$ exit
+exit
+
+Script done on Tue Jun 25 16:13:06 2013

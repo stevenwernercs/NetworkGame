@@ -1,0 +1,118 @@
+Script started on Tue 25 Jun 2013 04:01:24 PM MDT
+[?1034h[1] sdwerner@recon20 Networks> $ lssvn commit -m "" [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kjava Sr[Kerver.[K
+Listening on 0.0.0.0/10000...
+Connected to recon10.cs.utep.edu/41241
+To:	Hi there! Let's begin:	('exit' to quit)
+To:	For Sure it's 510?
+From:	lower
+To:	How about 255?
+From:	even lower
+To:	I bet it's 127?
+From:	
+To:	say too high or too low
+From:	still smaller
+To:	How about 63?
+From:	little lower
+To:	It's probably 31?
+From:	higher
+To:	I bet it's 47?
+From:	higher
+To:	I bet it's 55?
+From:	h
+To:	Is it 59?
+From:	l
+To:	Umm.. 57?
+From:	yes
+To:	Yep 57. I knew it!! Only 9 guesses.	('exit' and try again..)
+From:	WRONG!!
+To:	The answer is 57 or else you lied to me!!  ('exit' and try again..)
+From:	just kidding your correct
+To:	I know I know, 57...  This is what i do...	('exit' and try again..)
+From:	exit
+To:	Thank you for playing :) bye.
+Disconnected from 41241
+Listening on 0.0.0.0/10000...
+Connected to recon10.cs.utep.edu/41242
+To:	Hi there! Let's begin:	('exit' to quit)
+To:	I bet it's 519?
+From:	higher
+To:	Ok... 771?
+From:	higher
+To:	Ok... 897?
+From:	lower
+To:	Is it 834?
+From:	lower
+To:	For Sure it's 802?
+From:	lower
+To:	It's probably 786?
+From:	lower
+To:	For Sure it's 778?
+From:	lol, lower
+To:	It's probably 774?
+From:	higher
+To:	For Sure it's 776?
+From:	higher
+To:	I bet it's 777?
+From:	correct
+To:	Yep 777. I knew it!! Only 10 guesses.	('exit' and try again..)
+From:	exit
+To:	Thank you for playing :) bye.
+Disconnected from 41242
+Listening on 0.0.0.0/10000...
+Connected to recon10.cs.utep.edu/41243
+To:	Hi there! Let's begin:	('exit' to quit)
+To:	For Sure it's 520?
+From:	
+To:	What? Was i right?
+From:	?
+To:	What? Was i right?
+From:	?
+To:	What? Was i right?
+From:	?
+To:	Say it a different way
+From:	?
+To:	You need to say low or high
+From:	?
+To:	You need to say low or high
+From:	?
+To:	What? Was i right?
+From:	?
+To:	What? Was i right?
+From:	?
+To:	I didn't get that
+From:	.. higher
+To:	Is it 771?
+From:	higher
+To:	I bet it's 897?
+From:	higher
+To:	Umm.. 960?
+From:	h
+To:	I bet it's 991?
+From:	h
+To:	How about 1007?
+From:	h
+To:	It's probably 1015?
+From:	h
+To:	Is it 1019?
+From:	h
+To:	It's probably 1021?
+From:	h
+To:	I bet it's 1022?
+From:	h
+To:	The answer is 1022 or else you lied to me!!  ('exit' and try again..)
+From:	correct
+To:	Yep 1022. I knew it!! Only 10 guesses.	('exit' and try again..)
+From:	yeah yeah
+To:	The answer is 1022 or else you lied to me!!  ('exit' and try again..)
+From:	ok ok
+To:	The answer is 1022 or else you lied to me!!  ('exit' and try again..)
+From:	yes
+To:	I know I know, 1022...  This is what i do...	('exit' and try again..)
+From:	exit
+To:	Thank you for playing :) bye.
+Disconnected from 41243
+Listening on 0.0.0.0/10000...
+^C[2] sdwerner@recon20 Networks> $ exit
+exit
+
+Script done on Tue 25 Jun 2013 04:13:17 PM MDT
